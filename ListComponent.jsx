@@ -44,7 +44,7 @@ function ListComponent() {
               </ul>
             </details>
 
-            {/* Pulsante estrazione animale */}
+            {/* Pulsante Inserimento animale */}
             <button
               className="btn btn-primary mb-4"
               onClick={() => setShow(true)}
